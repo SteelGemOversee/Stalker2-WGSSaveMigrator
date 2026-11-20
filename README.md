@@ -149,3 +149,4 @@ No. Your original `wgs` folder is read-only and remains untouched.
 - [Palworld-GamePassSteamBridge](../Palworld-GamePassSteamBridge) — Palworld Xbox Game Pass ↔ Steam `Level.sav` converter
 
 *Independent community project. Not affiliated with GSC Game World, Microsoft, Valve, or Steam.*
+ 
