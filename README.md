@@ -150,3 +150,4 @@ No. Your original `wgs` folder is read-only and remains untouched.
 
 *Independent community project. Not affiliated with GSC Game World, Microsoft, Valve, or Steam.*
  
+ 
